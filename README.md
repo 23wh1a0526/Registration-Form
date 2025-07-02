@@ -1,0 +1,2 @@
+# Registration-Form
+This project is a fully responsive, fan-made registration form for SEVENTEEN's 9th official fan meet — CARATLAND 2025. Designed with CARATs in mind, the form captures essential details such as personal information, CARAT membership, ticket preferences, and fan favorites.
